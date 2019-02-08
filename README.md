@@ -3,6 +3,9 @@
 Added Clear memory button, that clear the used memory for the structure. Similar approach can be used for security storage of sensitive information. (keys, secret, Credit Card data)
 
 
+![](/secure-memory.png)
+
+
 Based on this:
 
 
