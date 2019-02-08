@@ -3,7 +3,7 @@
 Added Clear memory button, that clears the used memory for the structure. Similar approach can be used for security storage of sensitive information (keys, secret, Credit Card data) that way you make sure it is removed from device memory after usage.
 
 
-Java objects do not have a fixed location in memory on the opposite to C/C++ objects. They may be moved during their life me. It means Credit Card can by anywhere until Garbage collected and the memory allocation would be use by another object.
+Java objects do not have a fixed location in memory on the opposite to C/C++ objects. They may be moved during their lifetime. It means Credit Card can by anywhere until Garbage collected and the memory allocation would be use by another object.
 
 Solution for maximum security would be to hande Credit Card data input with NDK (C/C++) and clean the object after use.
 
