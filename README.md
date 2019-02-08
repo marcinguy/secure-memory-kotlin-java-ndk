@@ -16,7 +16,7 @@ For example, here I stored int 123 (hex 0x7b)
 0xd7bfb060: 0x00000000 0x00000000
 ```
 
-After clearing (Clear button) the whoe struct is gone:
+After clearing (Clear button) the whole structure is gone:
 
 ```
 (lldb) x/10x 0xd7bfb040
