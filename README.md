@@ -1,3 +1,11 @@
+# Secure Memory with Kotlin/Java and NDK
+
+Added Clear memory button, that clear the used memory for the structure. Similar approach can be used for security storage of sensitive information. (keys, secret, Credit Card data)
+
+
+Based on this:
+
+
 # Android NDK. Interaction Kotlin with C/C++
 ![](https://cdn-images-1.medium.com/max/1600/1*3x1QE3VzG5MWi5Qk6C-HLQ.gif)
 
