@@ -1,6 +1,6 @@
 # Secure Memory with Kotlin/Java and NDK
 
-Added Clear memory button, that clear the used memory for the structure. Similar approach can be used for security storage of sensitive information. (keys, secret, Credit Card data) that way you make sure it is removed from device memory after usage.
+Added Clear memory button, that clears the used memory for the structure. Similar approach can be used for security storage of sensitive information. (keys, secret, Credit Card data) that way you make sure it is removed from device memory after usage.
 
 
 Java objects do not have a fixed location in memory on the opposite to C++ objects. They may be moved during their life me. It means Credit Card can by anywhere until Garbage collected and the memory allocation would be use by another object.
